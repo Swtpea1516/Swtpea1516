@@ -1,4 +1,5 @@
-### Hi there 👋
+I am Whitney Heacock, a seasoned Software Developer proficient in HTML5, CSS, JavaScript, React, Redux, Python, Flask, and SQL. As a proud graduate of 4Geeks Academy, my expertise lies in full-stack development and database management. I've successfully executed projects like a Star Wars website with Redux functionality and an authentication system featuring token passing.
+Beyond coding, my professional background includes managing restaurant operations, optimizing scheduling procedures, and handling transportation logistics. I currently serve as a mentor for aspiring full-stack developers at 4Geeks Academy, showcasing my problem-solving skills and meticulous attention to detail. With a comprehensive skill set and a foundation in Health Science, I bring versatility and expertise to every project.
 
 <!--
 **Swtpea1516/Swtpea1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
